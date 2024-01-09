@@ -29,8 +29,10 @@ const Feedback = () => (
         </div>
 
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-          “
-          Com o desenvolvimento da tecnologia atual, Metaverso é bastante útil para o trabalho de hoje, ou pode ser chamado de web 3.0. Ao usar o Metaverso você pode usar dos mais diversos recursos, permitindo que você possa fazer praticamente qualquer tarefa. ”
+          “ Com o desenvolvimento da tecnologia atual, Metaverso é bastante útil
+          para o trabalho de hoje, ou pode ser chamado de web 3.0. Ao usar o
+          Metaverso você pode usar dos mais diversos recursos, permitindo que
+          você possa fazer praticamente qualquer tarefa. ”
         </p>
       </motion.div>
 
